@@ -11,3 +11,5 @@ Created build
 ![image](https://user-images.githubusercontent.com/82173878/177014755-00c8268b-1bbe-4b97-a7ac-512c88a7c91a.png)
 Created trigger
 ![image](https://user-images.githubusercontent.com/82173878/177014777-f0e75f09-9c83-4eed-922e-5fa5c5b73772.png)
+Build results
+![image](https://user-images.githubusercontent.com/82173878/177016082-daaea66d-4221-4b31-b694-4ec042357968.png)
