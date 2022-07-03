@@ -9,3 +9,4 @@ Installed Prometheus plugin for Jenkins
 Add new job in prometheus.yml
 ![image](https://user-images.githubusercontent.com/82173878/177040215-58e2b311-7091-41b8-9555-ad45bcafd9cc.png)
 ![image](https://user-images.githubusercontent.com/82173878/177040032-3da02962-3639-43a0-a279-a13c4b9c3c7c.png)
+![image](https://user-images.githubusercontent.com/82173878/177040516-e073aba2-1c98-4a45-9f73-1daef9544f7d.png)
