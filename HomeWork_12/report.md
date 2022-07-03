@@ -12,5 +12,6 @@ Add new job in prometheus.yml
 Result
 ![image](https://user-images.githubusercontent.com/82173878/177040516-e073aba2-1c98-4a45-9f73-1daef9544f7d.png)
 
-Connect Grafana
+Connect Grafana monitoring
 ![image](https://user-images.githubusercontent.com/82173878/177040663-d71074d9-7d17-4e74-96ff-034255ad4898.png)
+![image](https://user-images.githubusercontent.com/82173878/177040896-bb951989-ec23-4b8f-8f45-1fd9f2e490c2.png)
